@@ -70,7 +70,7 @@ hr.star-primary:after {
    top: -.8em;
    display: inline-block;
    padding: 0 .25em;
-   content: '\f2dc'
+   content: '\f260'
 }
 
 hr.star-light {
@@ -562,8 +562,8 @@ footer .footer-below {
 
 #sendBtn:hover {
    color: #fff;
-   border-color: #b25838;
-   background-color: #b25838
+   background-color: #b44146
+
 }
 
 .btn-outline {
@@ -571,7 +571,7 @@ footer .footer-below {
    font-size: 20px;
    margin-top: 15px;
    transition: all .3s ease-in-out;
-   color: #F44336;
+   color: #DD3C43;
    border: solid 2px #fff;
    background: #fff
 }
@@ -582,7 +582,7 @@ footer .footer-below {
 .btn-outline:hover {
    color: #FFF;
    border: solid 2px #fff;
-   background: #F44336
+   background: #DD3C43
 }
 
 .btn-primary {
@@ -655,8 +655,7 @@ fieldset[disabled] .btn-primary:hover {
    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
    font-weight: 700;
    color: #fff;
-   border-color: coral;
-   background-color: coral
+   background-color: #DD3C43
 }
 
 .btn-success.focus,
@@ -668,8 +667,8 @@ fieldset[disabled] .btn-primary:hover {
 
 .btn-success:hover {
    color: #fff;
-   border-color: #b25838;
-   background-color: #b25838
+   border-color: #DD3C43;
+   background-color: #DD3C43
 }
 
 .btn-success.active,
