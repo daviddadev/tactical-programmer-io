@@ -16,7 +16,7 @@ a.active,
 a:active,
 a:focus,
 a:hover {
-   color: #5fcf80;
+   color: #DD3C43;
    outline: 0
 }
 
@@ -79,12 +79,12 @@ hr.star-light {
 
 hr.star-light:after {
    color: #fff;
-   background-color: #C25975
+   background-color: #DD3C43
 }
 
 hr.about-me:after {
    color: #fff;
-   background-color: #C25975
+   background-color: #DD3C43
 }
 
 hr.star-primary {
@@ -112,7 +112,7 @@ section h2 {
 section.success {
    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
    color: #fff;
-   background: #C25975
+   background: #DD3C43
 }
 
 @media (max-width:767px) {
@@ -180,7 +180,7 @@ section.success {
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:hover {
-   color: #c25975;
+   color: #DD3C43;
    outline: 0
 }
 
@@ -202,7 +202,7 @@ section.success {
 #mainNav .navbar-toggler:hover {
    color: #fff;
    border-color: #fff;
-   background-color: #c25975
+   background-color: #DD3C43
 }
 
 @media (min-width:992px) {
@@ -222,13 +222,13 @@ section.success {
    #mainNav .navbar-nav>li.nav-item>a.nav-link.active {
       color: #fff;
       border-radius: 3px;
-      background: #c25975
+      background: #DD3C43
    }
    #mainNav .navbar-nav>li.nav-item>a.nav-link.active:active,
    #mainNav .navbar-nav>li.nav-item>a.nav-link.active:focus,
    #mainNav .navbar-nav>li.nav-item>a.nav-link.active:hover {
       color: #fff;
-      background: #c25975
+      background: #DD3C43
    }
    #mainNav.navbar-shrink {
       padding-top: 10px;
@@ -245,7 +245,7 @@ header.masthead {
    padding-bottom: 50px;
    text-align: center;
    color: #fff;
-   background: #C25975
+   background: #DD3C43
 }
 
 header.masthead img {
@@ -550,7 +550,7 @@ footer .footer-below {
    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
    font-weight: 700;
    color: #fff;
-   background-color: #c25975
+   background-color: #DD3C43
 }
 
 #sendBtn.focus,
